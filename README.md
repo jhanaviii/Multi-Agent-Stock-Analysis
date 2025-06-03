@@ -2,7 +2,7 @@
 
 ## Overview
 This project implements a multi-agent system to answer stock-related questions using the Alpha Vantage API and Yahoo Finance.
-
+(internshala assignment)
 ## Agents
 - `identify_ticker`: Parses natural language and detects ticker.
 - `ticker_news`: Fetches top 5 stock news.
